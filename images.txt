@@ -1,1 +1,7 @@
 joinsunsoft/docker.ui
+goharbor/harbor-portal:v2.14.2
+goharbor/registry-photon:v2.14.2
+goharbor/harbor-registryctl:v2.14.2
+goharbor/harbor-core:v2.14.2
+goharbor/nginx-photon:v2.14.2
+goharbor/harbor-jobservice:v2.14.2
